@@ -1,0 +1,25 @@
+/* App.css */
+.app-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.app-title {
+  color: #007bff;
+}
+
+.timetable-container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.timetable-day {
+  border: 1px solid #ccc;
+  padding: 10px;
+  width: 150px;
+}
+
+.timetable-slot {
+  margin: 10px 0;
+}
